@@ -121,9 +121,12 @@ input[type="submit"]:hover{
     background-color: #0077B5;
 }
 
+.fa-instagram{
+    background-color: #d638db;
+}
+
 /*Registro*/
 
 #registrar-container p{
     margin-bottom: 10px;
-    
 }
