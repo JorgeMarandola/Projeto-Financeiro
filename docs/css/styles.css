@@ -12,6 +12,7 @@
 /*Body*/
 
 body{
+    padding-top: 5vh;
     background-image: url(../img/background.jpg);
     background-size: cover;
 }
@@ -47,7 +48,6 @@ a:hover{
 form{
     margin-top: 30px;
     margin-bottom: 40px;
-
 }
 
 label, input{
